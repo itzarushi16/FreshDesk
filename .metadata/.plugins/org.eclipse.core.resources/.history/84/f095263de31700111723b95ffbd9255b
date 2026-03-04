@@ -1,0 +1,14 @@
+spring.application.name=FreshDesk
+
+
+
+server.port=8080
+freshdesk.base.url=https://thearushi16.freshdesk.com/api/v2
+
+
+freshdesk.api.key=S_thTwxz7OCf9CrlgMt5
+
+
+
+
+spring.jackson.serialization.indent_output=true
